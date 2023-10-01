@@ -7,11 +7,13 @@
 
 #### step 1:
   Give star to the repositoty.
-
-
+  
 #### step 2:
   Fork the current repository.
 
+#### step 3:
+  clone the repo 
+    
 #### step 3:
   Write any program in any language 
 
