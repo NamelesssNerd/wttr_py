@@ -13,13 +13,15 @@
 
 #### step 3:
   clone the repo 
-    
-#### step 3:
+  ```
+git clone https://github.com/NamelesssNerd/Hacktoberfest-.git
+```
+#### step 4:
   Write any program in any language 
 
-#### step 4:
+#### step 5:
   Push the code 
 
-#### step 5:
+#### step 6:
   Create the pull request.
 
