@@ -21,6 +21,9 @@ git clone https://github.com/NamelesssNerd/Hacktoberfest-.git
 
 #### step 5:
   Push the code 
+  ```
+git push origin -u master
+```
 
 #### step 6:
   Create the pull request.
