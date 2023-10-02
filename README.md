@@ -1,30 +1,20 @@
-# Hacktoberfest-2023
+# wttr_py
+wttr.in Python consumer script
 
-## Add your program in any language
-
-### Note : contributor have to star the repo
-###Steps
-
-#### step 1:
-  Give star to the repositoty.
-  
-#### step 2:
-  Fork the current repository.
-
-#### step 3:
-  clone the repo 
-  ```
-git clone https://github.com/NamelesssNerd/Hacktoberfest-.git
-```
-#### step 4:
-  Write any program in any language 
-
-#### step 5:
-  Push the code 
-  ```
-git push origin -u master
+# Local Set Up 
+```bash 
+python3 -m venv .venv
+source ./venv/bin/activate
+pip install -r requirements_dev.in 
 ```
 
-#### step 6:
-  Create the pull request.
+
+# Make commands
+```bash 
+make format          Format the Python code using black
+make help            Show this help
+make lint            Run black, pylint and flake8 
+make run             Run main without args City defaults to Christchurch
+```
+
 
