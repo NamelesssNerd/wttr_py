@@ -1,6 +1,18 @@
 # wttr_py
 wttr.in Python consumer script
 
+
+
+
+
+
+
+
+
+
+
+
+
 # Local Set Up 
 ```bash 
 python3 -m venv .venv

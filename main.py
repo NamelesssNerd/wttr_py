@@ -17,7 +17,7 @@ PARSER.add_argument(
     "-c",
     "--city",
     dest="city",
-    default="Christchurch",
+    default="pokhara",
     help="Name of the City to display weather info from wttr.in",
 )
 
