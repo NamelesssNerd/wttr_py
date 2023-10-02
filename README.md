@@ -1,20 +1,10 @@
 
 ![Screenshot 2023-10-02 145415](https://github.com/NamelesssNerd/Hacktoberfest-/assets/87481819/851a3445-19c1-403e-945e-01df2168b3f2)
 
-# wttr_py
-wttr.in Python consumer script
 
-
-
-
-
-
-
-
-
-
-
-
+<h1 align="center">
+    <p>wttr_py</p>
+</h1>
 
 # Local Set Up 
 ```bash 
